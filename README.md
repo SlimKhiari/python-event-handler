@@ -1,5 +1,5 @@
-C'est une application en python utilisant SQLite et tkinter pour gérer les événements d'un établissement.
 
+It's a python application using SQLite and tkinter to handle events.
 
 ![Capture](https://user-images.githubusercontent.com/73532355/147504564-5151f958-1f75-4298-b9de-5f62ef257c69.JPG)
 
